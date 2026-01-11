@@ -1,10 +1,10 @@
 # 🛡️ LucidSecOps LeastPrivilegeIAM PS Helper
 
-**Author:** Ashton Mairura •
+**Author:** Lucidity Consulting LLC **
 
-**Version:** 1.0.4 •
+**Version:** 1.0.4 **
 
-**License:** MIT •
+**License:** MIT **
 ![MIT](https://img.shields.io/badge/License-MIT-green)
 
 > **LeastPrivilegeIAMTools** helps you **discover** and **remediate** over‑privileged Microsoft Graph permissions in Azure AD / Entra ID app registrations.
